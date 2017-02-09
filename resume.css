@@ -1,0 +1,106 @@
+
+
+.container {
+	width: 800px; 
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	text-justify: auto;
+	
+	
+	
+	
+}
+#header:hover  {
+	opacity: .9;
+}
+
+.experience:hover  {
+	opacity: .9;
+}
+#footer:hover {
+	opacity: .9;
+}
+
+body {
+	
+	padding: 15px;
+	background-image: url("ireland.jpg");
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	font-family: calibri;
+	
+}
+	
+#name{
+    font-size: 50px;
+    position: inline-block;
+	text-align: center;
+	margin: auto;
+	letter-spacing: 6px;
+	text-transform: uppercase;
+}  
+
+#header {
+    border-radius: 5px;
+    background-color: #990000;  
+	color: white;
+    height: auto;
+    width: auto;
+    clear: both;
+    position: relative;
+    z-index: 1; 
+	margin: auto;
+	padding: 15px;
+	opacity: .75;
+	border-style: rounded;
+	border-radius: 50px;
+	
+	
+	
+		
+    }
+	
+ h1 {
+	 text-transform: capitalize;
+	 font-weight: bold;
+ }
+.experience {
+    border-radius: 50px;
+    background-color: #5e6a0a;
+	color: #D3D3D3;
+    height: auto;
+    width: auto;
+    padding: 15px;
+    clear: right;
+    position: relative;
+	margin: auto;
+	opacity: .75;
+	border-style: rounded;
+	
+	
+	
+		
+    }
+.experience ul {
+		list-style-type: square;
+	}		
+#footer {
+    border-radius: 5px;
+    background-color: #979311; 
+    height: auto;
+    width: auto;
+    clear: both;
+	margin: auto;
+	padding: 15px;
+	opacity: .75;
+	text-align: center;
+	border-style: rounded;
+	border-radius: 50px;
+	
+    }   
+	
+
+	
